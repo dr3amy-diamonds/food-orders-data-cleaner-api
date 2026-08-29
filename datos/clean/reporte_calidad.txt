@@ -1,0 +1,15 @@
+Reporte de calidad de pedidos
+Filas originales: 150
+Filas finales: 145
+Duplicados eliminados: 5
+
+Valores faltantes por columna:
+- pedido_id: 0
+- fecha: 1
+- producto: 0
+- categoria: 0
+- cantidad: 1
+- precio_unitario: 1
+- metodo_pago: 0
+- estado: 0
+- tiempo_entrega_min: 49
