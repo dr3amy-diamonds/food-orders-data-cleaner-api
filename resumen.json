@@ -1,0 +1,9 @@
+{
+  "_nota": "Revisar documento README.md para ver la justificación del redondeo de los resultados",
+  "filas": 150,
+  "ventas_entregado": 1728000.0,
+  "media_tiempo_entrega": 32.76,
+  "mediana_tiempo_entrega": 30.0,
+  "desviacion_tiempo_entrega": 28.24,
+  "duplicados_pedido_id": 5
+}
